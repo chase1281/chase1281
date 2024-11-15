@@ -1,16 +1,14 @@
-## Welcome My World 👋
+# 안녕하세요! 👋
+제 이름은 김민제이고, 국립부경대학교에서 컴퓨터 공학을 전공하고 있는 학부생입니다.
 
-<!--
-**chase1281/chase1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 기술 스택
+- **언어**: C++, Java, Python
+- **백엔드**: Java Spring (학습 중)
 
-Here are some ideas to get you started:
+### 📚 관심 분야
+- 읽기 추천 시스템 개발 📖
+- 네트워크 프로그래밍 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 목표
+- Java Spring을 이용한 백엔드 개발자 되기 💼
+- 오픈 소스 소프트웨어 기여 💪
