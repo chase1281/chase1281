@@ -15,10 +15,13 @@
 <a href="https://www.instagram.com/mj_02_06/">
   <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="mailto:kmj37847412@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a>
 
 ### 📈 Goal
 Java Spring을 이용한 백엔드 개발자 되기 💼 <br>
 오픈 소스 소프트웨어 기여 💪<br>
 도서 추천 시스템 리팩토링 📖<br>
-웹 개발<br>
+웹 개발 🖥️<br>
 </div>
