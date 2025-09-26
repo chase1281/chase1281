@@ -3,10 +3,9 @@
 # <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=6FC7E1&text=Welcome&desc=minje's%20github%20profile&descAlign=70&fontColor=ffffff">
 
 ## ![minje's GitHub stats](https://github-readme-stats.vercel.app/api?username=chase1281&theme=dark&show_icons=true) <a href="https://github.com/chase1281"><img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase1281&layout=compact&theme=nord&hide_border=true" /></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmz34180)](https://solved.ac/kmz34180/)
 ### 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmz34180)](https://solved.ac/kmz34180/)
 
 ### 📖Studying
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
