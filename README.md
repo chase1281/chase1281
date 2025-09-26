@@ -14,13 +14,11 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 📞Contact
-<a href="mailto:kmz34180@naver.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=mail&logoColor=white"> 
+<a href="mailto:kmj37847412@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 
 ### 📈 Goal
-Java Spring을 이용한 백엔드 개발자 되기 💼 <br>
+백엔드 개발자 💼 <br>
 오픈 소스 소프트웨어 기여 💪<br>
-도서 추천 시스템 리팩토링 📖<br>
-웹 개발 🖥️<br>
 </div>
