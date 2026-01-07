@@ -1,5 +1,5 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align= "center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141fbd,100:003cf0&height=180&text=Hello!%20I'm%20MinJe&animation=twinkling&fontColor=ffffff&fontSize=70" />
   
 ## ![minje's GitHub stats](https://github-readme-stats.vercel.app/api?username=chase1281&theme=dark&show_icons=true) <a href="https://github.com/chase1281"></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmz34180)](https://solved.ac/kmz34180/)
