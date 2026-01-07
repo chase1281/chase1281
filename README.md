@@ -1,5 +1,6 @@
 <div align="center">
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+  
 ## ![minje's GitHub stats](https://github-readme-stats.vercel.app/api?username=chase1281&theme=dark&show_icons=true) <a href="https://github.com/chase1281"></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmz34180)](https://solved.ac/kmz34180/)
 ### 💻 Tech Stack
