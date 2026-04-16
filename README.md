@@ -16,7 +16,3 @@
 <a href="mailto:kmj37847412@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
-
-### 📈 Goal
-백엔드 개발자 💼 <br>
-</div>
